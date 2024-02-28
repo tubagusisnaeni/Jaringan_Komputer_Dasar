@@ -1,14 +1,15 @@
 # Jaringan_Komputer_Dasar
-Media Perkuliahan Jaringan Komputer Dasar
+![#f03c15] (Media Perkuliahan Jaringan Komputer Dasar)
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 
 # 1. Pendahuluan
 
-## 1.1. Konsep dasar jaringan komputer dan komunikasi data
+## 1.1. Konsep dasar jaringan komputer dan komunikasi data `#f03c15`
 ## 1.2. Komponen-komponen pembentuk jaringan komputer</b>
 ## 1.3. Aplikasi jaringan komputer pada dunia nyata
 
 
-# [2. Protokol](/protokol)
+# [2. Protokol](/protokol.md)
 ## 2.1. Fungsi protokol dalam komunikasi data
 ## 2.2. OSI Reference Model: Fungsi dan hubungan    masing-masing layer
 ## 2.3. TCP/IP Model: Fungsi dan hubungan masing-masing layer
