@@ -8,7 +8,7 @@ Media Perkuliahan Jaringan Komputer Dasar
 ## 1.3. Aplikasi jaringan komputer pada dunia nyata
 
 
-# 2. Protokol
+# [2. Protokol](/protokol)
 ## 2.1. Fungsi protokol dalam komunikasi data
 ## 2.2. OSI Reference Model: Fungsi dan hubungan    masing-masing layer
 ## 2.3. TCP/IP Model: Fungsi dan hubungan masing-masing layer
