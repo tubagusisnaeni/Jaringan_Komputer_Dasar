@@ -6,7 +6,7 @@ Media Perkuliahan Jaringan Komputer Dasar
 
 # 1. Pendahuluan
 
-## 1.1. Konsep dasar jaringan komputer dan komunikasi data `#f03c15`
+## 1.1. Konsep dasar jaringan komputer dan komunikasi data 
 ## 1.2. Komponen-komponen pembentuk jaringan komputer</b>
 ## 1.3. Aplikasi jaringan komputer pada dunia nyata
 
@@ -17,7 +17,7 @@ Media Perkuliahan Jaringan Komputer Dasar
 ## 2.3. TCP/IP Model: Fungsi dan hubungan masing-masing layer
 
 
-# 3. Application Layer
+# 3. [Application Layer](/Application_Layer.md)
 ## 3.1. Fungsi dari Application Layer
 ## 3.2. Protokol-protokol yang bekerja pada Application Layer: HTTP, DNS, SMTP/POP, FTP, TELNET/SSH, DHCP
 
