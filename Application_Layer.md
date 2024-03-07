@@ -1,5 +1,8 @@
 # 3. Application Layer
 
+![image](https://github.com/tubagusisnaeni/Jaringan_Komputer_Dasar/assets/71756096/dc84463c-9a51-4cc0-ba5c-3930de388e10)
+
+
 ## 3.1. Fungsi dari Application Layer
 Application Layer memiliki beberapa fungsi , yaitu :
 
