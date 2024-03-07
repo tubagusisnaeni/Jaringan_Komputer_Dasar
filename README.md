@@ -1,6 +1,8 @@
 # Jaringan_Komputer_Dasar
-![#f03c15] (Media Perkuliahan Jaringan Komputer Dasar)
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+Media Perkuliahan Jaringan Komputer Dasar
+
+
+
 
 # 1. Pendahuluan
 
